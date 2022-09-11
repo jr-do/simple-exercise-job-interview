@@ -42,4 +42,3 @@ Simple exercise given for a job interview
 	  
 3) (If you have time for extra points) Create the top 10 used words list in
    data column.
-   -> Please send the result with script you used to created it.
